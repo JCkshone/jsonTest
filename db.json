@@ -1,0 +1,35 @@
+"events": [
+ {
+  "name": "event foo",
+  "date": "2020-05-22",
+  "time": "7:00",
+  "am_or_pm": "PM",
+  "day": "Saturday",
+  "description": "test "
+},
+{
+  "name": "event bar",
+  "date": "2020-05-22",
+  "time": "7:00",
+  "am_or_pm": "PM",
+  "day": "Saturday",
+  "description": "test2"
+},
+{
+  "name": "event foobar",
+  "date": "2020-05-24",
+  "time": "11:00",
+  "am_or_pm": "PM",
+  "day": "Saturday",
+  "description": "test3"
+}, 
+{
+  "name": "event foobar",
+  "date": "2020-05-24",
+  "time": "11:00",
+  "am_or_pm": "PM",
+  "day": "Saturday",
+  "description": "test3"
+ }
+]
+}
