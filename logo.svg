@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="193.514" height="49" viewBox="0 0 193.514 49">
+    <g id="prefix__Grupo_443" data-name="Grupo 443" transform="translate(-70 -72)">
+        <rect id="prefix__Rectángulo_41" width="11" height="11" fill="#fc0" data-name="Rectángulo 41" rx="5.5" transform="rotate(-2 2424.033 -2507.553)"/>
+        <g id="prefix__Grupo_396" data-name="Grupo 396" transform="translate(0 -24)">
+            <text id="prefix__Tradelog" fill="#3e3e3e" font-family="SegoeUI-Bold, Segoe UI" font-size="34px" font-weight="700" transform="translate(121.514 96)">
+                <tspan x="0" y="37">Tradelog</tspan>
+            </text>
+            <rect id="prefix__Rectángulo_36" width="11" height="11" fill="#09f" data-name="Rectángulo 36" rx="5.5" transform="rotate(-2 3121.01 -1951.282)"/>
+            <rect id="prefix__Rectángulo_42" width="11" height="11" fill="red" data-name="Rectángulo 42" rx="5.5" transform="rotate(-2 3665.252 -1960.78)"/>
+            <rect id="prefix__Rectángulo_43" width="11" height="11" fill="#00de61" data-name="Rectángulo 43" rx="5.5" transform="rotate(-2 3655.754 -2505.022)"/>
+        </g>
+    </g>
+</svg>
